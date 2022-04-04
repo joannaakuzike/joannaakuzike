@@ -1,0 +1,113 @@
+﻿User Stories
+1. A dog can sign up for the app
+2. A dog can send and receive friend requests to become friends with other dogs.
+3. A dog can notify another dog of their presence through the ‘bark’ feature.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Story 1 
+“A dog can sign up for the app”
+1. On the homepage, a dog has the option to either login with username and password or sign up to create a new account.
+2. To sign up, the dog must provide their email, password and desired username.
+3. The password must be more than 8 characters and a combination of both uppercase and lowercase characters.
+4. If password and email are acceptable, the dog will be automatically directed to their feed page. 
+        
+Story 2
+“A dog can send and receive friend requests to become friends with other dogs”
+1. On their feed page, a dog can look for other dogs by searching for their username.
+2. They can send a request to become friends by clicking on the ‘Send Request’ tool next to the dog’s username. 
+3. Once their request is accepted, the dog’s friend will appear in their list of friends on their individual page and their posts will appear on the feed page.
+4. The dog is not notified when their friend request is denied. 
+5. Additionally, any friend requests received appear when the ‘Friend Requests’ icon on the feed page is clicked. 
+6. A dog has the option to either accept or deny friend requests received. 
+
+
+Story 3
+“A dog can notify another dog of their presence through the ‘bark’ feature”
+1. On their friend’s individual profile, an icon appears labeled ‘Bark’. 
+2. Once clicked, the dog’s friend is notified and given the option to either bark back or message the dog. 
+
+
+
+
+
+
+Views for DogChat
+* Site Homepage
+* Sign up/Login page
+* Feed page
+* Individual profile page
+* Friend requests page
