@@ -1,0 +1,47 @@
+﻿Munchies
+An app created for the indecisive foodie. You can search for a nearby restaurant or cafe and read various reviews as well as write your own reviews.
+User Stories
+1. A user can view restaurants based on their area or a specific cuisine they’re looking for
+2. A user can bookmark restaurants to visit later
+3. A user can read reviews under each restaurant and write their own reviews
+4. Each restaurant has a menu for the user to view
+5. A user can rate a restaurant from a scale of one to five stars
+
+
+Story 1
+“A user can view restaurants based on their area or a specific cuisine they’re looking for”
+1. A user logs in to the app using their name and password.
+2. A successful login will lead the user to the homepage where they can enter a specific location or dish into the search bar
+3. A list of results will be shown to the user along with their rating according to other users
+
+
+Story 2
+“A user can bookmark restaurants to visit later”
+1. On a specific restaurant, the user has a special bookmark option. 
+2. Once clicked, the restaurant will be added to a list of bookmarked restaurants that the user can view later. 
+3. Bookmarking a restaurant gives the user special access to specials and promotions. 
+
+
+Story 3
+“A user can read reviews under each restaurant and write their own”
+1. On a specific restaurant, a user can scroll down to view reviews from other users 
+2. The user can also write reviews for a restaurant of their choice. 
+
+
+Story 4
+“Each restaurant has a menu for the user to view”
+1. On a restaurant’s page, the user can view the menu without physically going to the restaurant. 
+
+
+Story 5
+“A user can rate a restaurant from a scale of one to five stars”
+1. On a restaurant’s page, the user can rate a restaurant from a scale of one to five stars
+2. The rating will be seen by other users and an average rating is listed alongside the restaurant  
+
+
+Views for Munchies
+* Login page
+* Home page
+* Results page
+* Restaurant page
+* Bookmarked restaurants list
